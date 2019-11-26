@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2.4" created="2019-11-16 14:06" -->
+	<!-- generator="WordPress/5.2.4" created="2019-11-26 00:42" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,10 +26,10 @@
 >
 
 <channel>
-	<title>Thử 1</title>
+	<title>Buk Trade</title>
 	<link>http://localhost:8888/duong</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<pubDate>Sat, 16 Nov 2019 14:06:48 +0000</pubDate>
+	<description></description>
+	<pubDate>Tue, 26 Nov 2019 00:42:58 +0000</pubDate>
 	<language>vi-VN</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost:8888/duong</wp:base_site_url>
@@ -38,12 +38,156 @@
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[duong1]]></wp:author_login><wp:author_email><![CDATA[hxa101huynh123@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[duong1]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
+		<wp:term_id>496</wp:term_id>
+		<wp:category_nicename><![CDATA[khoa-du-li%cc%a3ch]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Khoa Du lịch]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>497</wp:term_id>
+		<wp:category_nicename><![CDATA[khoa-ke-toan]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Khoa Kế toán]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>500</wp:term_id>
+		<wp:category_nicename><![CDATA[khoa-kinh-doanh-quoc-te]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Khoa Kinh doanh quốc tế]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>502</wp:term_id>
+		<wp:category_nicename><![CDATA[khoa-kinh-te]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Khoa Kinh tế]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>506</wp:term_id>
+		<wp:category_nicename><![CDATA[khoa-kinh-te-chinh-tri%cc%a3]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Khoa Kinh tế – Chính trị]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>501</wp:term_id>
+		<wp:category_nicename><![CDATA[khoa-lua%cc%a3t]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Khoa Luật]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>503</wp:term_id>
+		<wp:category_nicename><![CDATA[khoa-ly-lua%cc%a3n-chinh-tri%cc%a3]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Khoa Lý luận chính trị]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>504</wp:term_id>
+		<wp:category_nicename><![CDATA[khoa-marketing]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Khoa Marketing]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>508</wp:term_id>
+		<wp:category_nicename><![CDATA[khoa-ngan-hang]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Khoa Ngân hàng]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>498</wp:term_id>
+		<wp:category_nicename><![CDATA[khoa-qua%cc%89n-tri%cc%a3-kinh-doanh]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Khoa Quản trị kinh doanh]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>505</wp:term_id>
+		<wp:category_nicename><![CDATA[khoa-tai-chinh]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Khoa Tài chính]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>499</wp:term_id>
+		<wp:category_nicename><![CDATA[khoa-thong-ke-tin-ho%cc%a3c]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Khoa Thống kê-Tin học]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>507</wp:term_id>
+		<wp:category_nicename><![CDATA[khoa-thuong-ma%cc%a3i-die%cc%a3n-tu%cc%89]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Khoa Thương mại điện tử]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:category>
+		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[khong-phan-loai]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Chưa được phân loại]]></wp:cat_name>
+		<wp:cat_name><![CDATA[Sách Khác]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:category>
-				<wp:term>
+			<wp:tag>
+		<wp:term_id>495</wp:term_id>
+		<wp:tag_slug><![CDATA[accac]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[âccac]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>494</wp:term_id>
+		<wp:tag_slug><![CDATA[ad]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[ad]]></wp:tag_name>
+	</wp:tag>
+			<wp:term>
 		<wp:term_id><![CDATA[8]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[exclude-from-catalog]]></wp:term_slug>
@@ -94,6 +238,10 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
@@ -9242,38 +9390,949 @@
 	<generator>https://wordpress.org/?v=5.2.4</generator>
 
 		<item>
+		<title>610715cf657b8325da6a</title>
+		<link>http://localhost:8888/duong/610715cf657b8325da6a/</link>
+		<pubDate>Sat, 16 Nov 2019 04:53:53 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/610715cf657b8325da6a.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>19</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-16 04:53:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-16 04:53:53]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[610715cf657b8325da6a]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/610715cf657b8325da6a.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/610715cf657b8325da6a.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1080;s:6:"height";i:400;s:4:"file";s:32:"2019/11/610715cf657b8325da6a.jpg";s:5:"sizes";a:7:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:32:"610715cf657b8325da6a-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:32:"610715cf657b8325da6a-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:18:"woocommerce_single";a:4:{s:4:"file";s:32:"610715cf657b8325da6a-600x222.jpg";s:5:"width";i:600;s:6:"height";i:222;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"610715cf657b8325da6a-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"610715cf657b8325da6a-300x111.jpg";s:5:"width";i:300;s:6:"height";i:111;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"610715cf657b8325da6a-768x284.jpg";s:5:"width";i:768;s:6:"height";i:284;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"610715cf657b8325da6a-1024x379.jpg";s:5:"width";i:1024;s:6:"height";i:379;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>01b5dcffd74b3115685a</title>
+		<link>http://localhost:8888/duong/01b5dcffd74b3115685a/</link>
+		<pubDate>Sat, 16 Nov 2019 04:54:07 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/01b5dcffd74b3115685a.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>20</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-16 04:54:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-16 04:54:07]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[01b5dcffd74b3115685a]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/01b5dcffd74b3115685a.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/01b5dcffd74b3115685a.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1080;s:6:"height";i:400;s:4:"file";s:32:"2019/11/01b5dcffd74b3115685a.jpg";s:5:"sizes";a:7:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:32:"01b5dcffd74b3115685a-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:32:"01b5dcffd74b3115685a-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:18:"woocommerce_single";a:4:{s:4:"file";s:32:"01b5dcffd74b3115685a-600x222.jpg";s:5:"width";i:600;s:6:"height";i:222;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"01b5dcffd74b3115685a-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"01b5dcffd74b3115685a-300x111.jpg";s:5:"width";i:300;s:6:"height";i:111;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"01b5dcffd74b3115685a-768x284.jpg";s:5:"width";i:768;s:6:"height";i:284;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"01b5dcffd74b3115685a-1024x379.jpg";s:5:"width";i:1024;s:6:"height";i:379;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>74614080_552266268931899_4360626548408057856_n</title>
+		<link>http://localhost:8888/duong/74614080_552266268931899_4360626548408057856_n/</link>
+		<pubDate>Sat, 16 Nov 2019 09:38:59 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/74614080_552266268931899_4360626548408057856_n.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>31</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-16 09:38:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-16 09:38:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[74614080_552266268931899_4360626548408057856_n]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/74614080_552266268931899_4360626548408057856_n.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/74614080_552266268931899_4360626548408057856_n.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:319;s:6:"height";i:290;s:4:"file";s:58:"2019/11/74614080_552266268931899_4360626548408057856_n.png";s:5:"sizes";a:4:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:58:"74614080_552266268931899_4360626548408057856_n-300x290.png";s:5:"width";i:300;s:6:"height";i:290;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:58:"74614080_552266268931899_4360626548408057856_n-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:58:"74614080_552266268931899_4360626548408057856_n-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:58:"74614080_552266268931899_4360626548408057856_n-300x273.png";s:5:"width";i:300;s:6:"height";i:273;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>woocommerce-placeholder</title>
+		<link>http://localhost:8888/duong/woocommerce-placeholder/</link>
+		<pubDate>Sat, 16 Nov 2019 10:04:21 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/woocommerce-placeholder.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>33</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-16 10:04:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-16 10:04:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[woocommerce-placeholder]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/woocommerce-placeholder.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:1200;s:4:"file";s:27:"woocommerce-placeholder.png";s:5:"sizes";a:7:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:35:"woocommerce-placeholder-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:35:"woocommerce-placeholder-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:18:"woocommerce_single";a:4:{s:4:"file";s:35:"woocommerce-placeholder-600x600.png";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:35:"woocommerce-placeholder-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:35:"woocommerce-placeholder-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:35:"woocommerce-placeholder-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:37:"woocommerce-placeholder-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>74614080_552266268931899_4360626548408057856_n</title>
+		<link>http://localhost:8888/duong/74614080_552266268931899_4360626548408057856_n-2/</link>
+		<pubDate>Sat, 23 Nov 2019 05:02:35 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/74614080_552266268931899_4360626548408057856_n-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>86</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-23 05:02:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-23 05:02:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[74614080_552266268931899_4360626548408057856_n-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/74614080_552266268931899_4360626548408057856_n-1.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/74614080_552266268931899_4360626548408057856_n-1.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:319;s:6:"height";i:290;s:4:"file";s:60:"2019/11/74614080_552266268931899_4360626548408057856_n-1.png";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:60:"74614080_552266268931899_4360626548408057856_n-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:60:"74614080_552266268931899_4360626548408057856_n-1-300x273.png";s:5:"width";i:300;s:6:"height";i:273;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:60:"74614080_552266268931899_4360626548408057856_n-1-300x290.png";s:5:"width";i:300;s:6:"height";i:290;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:60:"74614080_552266268931899_4360626548408057856_n-1-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:60:"74614080_552266268931899_4360626548408057856_n-1-300x290.png";s:5:"width";i:300;s:6:"height";i:290;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:60:"74614080_552266268931899_4360626548408057856_n-1-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>74614080_552266268931899_4360626548408057856_n</title>
+		<link>http://localhost:8888/duong/74614080_552266268931899_4360626548408057856_n-3/</link>
+		<pubDate>Sat, 23 Nov 2019 05:20:40 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/74614080_552266268931899_4360626548408057856_n-2.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>89</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-23 05:20:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-23 05:20:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[74614080_552266268931899_4360626548408057856_n-3]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/74614080_552266268931899_4360626548408057856_n-2.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/74614080_552266268931899_4360626548408057856_n-2.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:319;s:6:"height";i:290;s:4:"file";s:60:"2019/11/74614080_552266268931899_4360626548408057856_n-2.png";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:60:"74614080_552266268931899_4360626548408057856_n-2-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:60:"74614080_552266268931899_4360626548408057856_n-2-300x273.png";s:5:"width";i:300;s:6:"height";i:273;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:60:"74614080_552266268931899_4360626548408057856_n-2-300x290.png";s:5:"width";i:300;s:6:"height";i:290;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:60:"74614080_552266268931899_4360626548408057856_n-2-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:60:"74614080_552266268931899_4360626548408057856_n-2-300x290.png";s:5:"width";i:300;s:6:"height";i:290;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:60:"74614080_552266268931899_4360626548408057856_n-2-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>610715cf657b8325da6a</title>
+		<link>http://localhost:8888/duong/610715cf657b8325da6a-2/</link>
+		<pubDate>Sat, 23 Nov 2019 05:21:02 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/610715cf657b8325da6a-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>90</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-23 05:21:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-23 05:21:02]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[610715cf657b8325da6a-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/610715cf657b8325da6a-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/610715cf657b8325da6a-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1080;s:6:"height";i:400;s:4:"file";s:34:"2019/11/610715cf657b8325da6a-1.jpg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:34:"610715cf657b8325da6a-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:34:"610715cf657b8325da6a-1-300x111.jpg";s:5:"width";i:300;s:6:"height";i:111;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:34:"610715cf657b8325da6a-1-768x284.jpg";s:5:"width";i:768;s:6:"height";i:284;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:35:"610715cf657b8325da6a-1-1024x379.jpg";s:5:"width";i:1024;s:6:"height";i:379;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:34:"610715cf657b8325da6a-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:34:"610715cf657b8325da6a-1-600x222.jpg";s:5:"width";i:600;s:6:"height";i:222;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:34:"610715cf657b8325da6a-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:34:"610715cf657b8325da6a-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:34:"610715cf657b8325da6a-1-600x222.jpg";s:5:"width";i:600;s:6:"height";i:222;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:34:"610715cf657b8325da6a-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>610715cf657b8325da6a</title>
+		<link>http://localhost:8888/duong/610715cf657b8325da6a-3/</link>
+		<pubDate>Sat, 23 Nov 2019 05:22:08 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/610715cf657b8325da6a-2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>91</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-23 05:22:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-23 05:22:08]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[610715cf657b8325da6a-3]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/610715cf657b8325da6a-2.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/610715cf657b8325da6a-2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1080;s:6:"height";i:400;s:4:"file";s:34:"2019/11/610715cf657b8325da6a-2.jpg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:34:"610715cf657b8325da6a-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:34:"610715cf657b8325da6a-2-300x111.jpg";s:5:"width";i:300;s:6:"height";i:111;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:34:"610715cf657b8325da6a-2-768x284.jpg";s:5:"width";i:768;s:6:"height";i:284;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:35:"610715cf657b8325da6a-2-1024x379.jpg";s:5:"width";i:1024;s:6:"height";i:379;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:34:"610715cf657b8325da6a-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:34:"610715cf657b8325da6a-2-600x222.jpg";s:5:"width";i:600;s:6:"height";i:222;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:34:"610715cf657b8325da6a-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:34:"610715cf657b8325da6a-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:34:"610715cf657b8325da6a-2-600x222.jpg";s:5:"width";i:600;s:6:"height";i:222;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:34:"610715cf657b8325da6a-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>d93ffbd4f9601f3e4671</title>
+		<link>http://localhost:8888/duong/d93ffbd4f9601f3e4671/</link>
+		<pubDate>Sat, 23 Nov 2019 06:53:22 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/d93ffbd4f9601f3e4671.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>106</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-23 06:53:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-23 06:53:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[d93ffbd4f9601f3e4671]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/d93ffbd4f9601f3e4671.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/d93ffbd4f9601f3e4671.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1080;s:6:"height";i:600;s:4:"file";s:32:"2019/11/d93ffbd4f9601f3e4671.jpg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"d93ffbd4f9601f3e4671-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"d93ffbd4f9601f3e4671-300x167.jpg";s:5:"width";i:300;s:6:"height";i:167;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"d93ffbd4f9601f3e4671-768x427.jpg";s:5:"width";i:768;s:6:"height";i:427;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"d93ffbd4f9601f3e4671-1024x569.jpg";s:5:"width";i:1024;s:6:"height";i:569;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:32:"d93ffbd4f9601f3e4671-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:32:"d93ffbd4f9601f3e4671-600x333.jpg";s:5:"width";i:600;s:6:"height";i:333;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:32:"d93ffbd4f9601f3e4671-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:32:"d93ffbd4f9601f3e4671-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:32:"d93ffbd4f9601f3e4671-600x333.jpg";s:5:"width";i:600;s:6:"height";i:333;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:32:"d93ffbd4f9601f3e4671-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>d93ffbd4f9601f3e4671</title>
+		<link>http://localhost:8888/duong/d93ffbd4f9601f3e4671-2/</link>
+		<pubDate>Sat, 23 Nov 2019 06:54:32 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/d93ffbd4f9601f3e4671-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>107</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-23 06:54:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-23 06:54:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[d93ffbd4f9601f3e4671-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/d93ffbd4f9601f3e4671-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/d93ffbd4f9601f3e4671-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1080;s:6:"height";i:600;s:4:"file";s:34:"2019/11/d93ffbd4f9601f3e4671-1.jpg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:34:"d93ffbd4f9601f3e4671-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:34:"d93ffbd4f9601f3e4671-1-300x167.jpg";s:5:"width";i:300;s:6:"height";i:167;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:34:"d93ffbd4f9601f3e4671-1-768x427.jpg";s:5:"width";i:768;s:6:"height";i:427;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:35:"d93ffbd4f9601f3e4671-1-1024x569.jpg";s:5:"width";i:1024;s:6:"height";i:569;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:34:"d93ffbd4f9601f3e4671-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:34:"d93ffbd4f9601f3e4671-1-600x333.jpg";s:5:"width";i:600;s:6:"height";i:333;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:34:"d93ffbd4f9601f3e4671-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:34:"d93ffbd4f9601f3e4671-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:34:"d93ffbd4f9601f3e4671-1-600x333.jpg";s:5:"width";i:600;s:6:"height";i:333;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:34:"d93ffbd4f9601f3e4671-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>banner_940x235</title>
+		<link>http://localhost:8888/duong/banner_940x235/</link>
+		<pubDate>Sun, 24 Nov 2019 12:39:44 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/banner_940x235.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>118</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 12:39:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 12:39:44]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[banner_940x235]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/banner_940x235.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/banner_940x235.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:940;s:6:"height";i:235;s:4:"file";s:26:"2019/11/banner_940x235.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"banner_940x235-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"banner_940x235-300x75.jpg";s:5:"width";i:300;s:6:"height";i:75;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:26:"banner_940x235-768x192.jpg";s:5:"width";i:768;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:26:"banner_940x235-300x235.jpg";s:5:"width";i:300;s:6:"height";i:235;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:26:"banner_940x235-600x150.jpg";s:5:"width";i:600;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:26:"banner_940x235-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:26:"banner_940x235-300x235.jpg";s:5:"width";i:300;s:6:"height";i:235;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:26:"banner_940x235-600x150.jpg";s:5:"width";i:600;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:26:"banner_940x235-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>banner_940x235_2</title>
+		<link>http://localhost:8888/duong/banner_940x235_2/</link>
+		<pubDate>Sun, 24 Nov 2019 12:49:55 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/banner_940x235_2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>128</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 12:49:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 12:49:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[banner_940x235_2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/banner_940x235_2.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/banner_940x235_2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:940;s:6:"height";i:235;s:4:"file";s:28:"2019/11/banner_940x235_2.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"banner_940x235_2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:27:"banner_940x235_2-300x75.jpg";s:5:"width";i:300;s:6:"height";i:75;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:28:"banner_940x235_2-768x192.jpg";s:5:"width";i:768;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:28:"banner_940x235_2-300x235.jpg";s:5:"width";i:300;s:6:"height";i:235;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:28:"banner_940x235_2-600x150.jpg";s:5:"width";i:600;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:28:"banner_940x235_2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:28:"banner_940x235_2-300x235.jpg";s:5:"width";i:300;s:6:"height";i:235;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:28:"banner_940x235_2-600x150.jpg";s:5:"width";i:600;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:28:"banner_940x235_2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>khoa1_184x112</title>
+		<link>http://localhost:8888/duong/khoa1_184x112/</link>
+		<pubDate>Sun, 24 Nov 2019 13:03:02 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/khoa1_184x112.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>136</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 13:03:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 13:03:02]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[khoa1_184x112]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/khoa1_184x112.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/khoa1_184x112.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:184;s:6:"height";i:112;s:4:"file";s:25:"2019/11/khoa1_184x112.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"khoa1_184x112-150x112.jpg";s:5:"width";i:150;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:25:"khoa1_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:25:"khoa1_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>khoa2_184x112</title>
+		<link>http://localhost:8888/duong/khoa2_184x112/</link>
+		<pubDate>Sun, 24 Nov 2019 13:04:35 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/khoa2_184x112.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>137</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 13:04:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 13:04:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[khoa2_184x112]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/khoa2_184x112.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/khoa2_184x112.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:184;s:6:"height";i:112;s:4:"file";s:25:"2019/11/khoa2_184x112.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"khoa2_184x112-150x112.jpg";s:5:"width";i:150;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:25:"khoa2_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:25:"khoa2_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>khoa3_184x112</title>
+		<link>http://localhost:8888/duong/khoa3_184x112/</link>
+		<pubDate>Sun, 24 Nov 2019 13:05:01 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/khoa3_184x112.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>138</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 13:05:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 13:05:01]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[khoa3_184x112]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/khoa3_184x112.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/khoa3_184x112.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:184;s:6:"height";i:112;s:4:"file";s:25:"2019/11/khoa3_184x112.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"khoa3_184x112-150x112.jpg";s:5:"width";i:150;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:25:"khoa3_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:25:"khoa3_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>khoa4_184x112</title>
+		<link>http://localhost:8888/duong/khoa4_184x112/</link>
+		<pubDate>Sun, 24 Nov 2019 13:05:01 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/khoa4_184x112.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>139</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 13:05:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 13:05:01]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[khoa4_184x112]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/khoa4_184x112.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/khoa4_184x112.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:184;s:6:"height";i:112;s:4:"file";s:25:"2019/11/khoa4_184x112.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"khoa4_184x112-150x112.jpg";s:5:"width";i:150;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:25:"khoa4_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:25:"khoa4_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>khoa5_184x112</title>
+		<link>http://localhost:8888/duong/khoa5_184x112/</link>
+		<pubDate>Sun, 24 Nov 2019 13:05:02 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/khoa5_184x112.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>140</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 13:05:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 13:05:02]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[khoa5_184x112]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/khoa5_184x112.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/khoa5_184x112.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:184;s:6:"height";i:112;s:4:"file";s:25:"2019/11/khoa5_184x112.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"khoa5_184x112-150x112.jpg";s:5:"width";i:150;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:25:"khoa5_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:25:"khoa5_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>khoa6_184x112</title>
+		<link>http://localhost:8888/duong/khoa6_184x112/</link>
+		<pubDate>Sun, 24 Nov 2019 13:05:03 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/khoa6_184x112.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>141</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 13:05:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 13:05:03]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[khoa6_184x112]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/khoa6_184x112.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/khoa6_184x112.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:184;s:6:"height";i:112;s:4:"file";s:25:"2019/11/khoa6_184x112.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"khoa6_184x112-150x112.jpg";s:5:"width";i:150;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:25:"khoa6_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:25:"khoa6_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>khoa7_184x112</title>
+		<link>http://localhost:8888/duong/khoa7_184x112/</link>
+		<pubDate>Sun, 24 Nov 2019 13:05:04 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/khoa7_184x112.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>142</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 13:05:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 13:05:04]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[khoa7_184x112]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/khoa7_184x112.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/khoa7_184x112.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:184;s:6:"height";i:112;s:4:"file";s:25:"2019/11/khoa7_184x112.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"khoa7_184x112-150x112.jpg";s:5:"width";i:150;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:25:"khoa7_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:25:"khoa7_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>khoa8_184x112</title>
+		<link>http://localhost:8888/duong/khoa8_184x112/</link>
+		<pubDate>Sun, 24 Nov 2019 13:05:05 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/khoa8_184x112.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>143</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 13:05:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 13:05:05]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[khoa8_184x112]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/khoa8_184x112.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/khoa8_184x112.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:184;s:6:"height";i:112;s:4:"file";s:25:"2019/11/khoa8_184x112.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"khoa8_184x112-150x112.jpg";s:5:"width";i:150;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:25:"khoa8_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:25:"khoa8_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Trang Mẫu</title>
-		<link>http://localhost:8888/duong/Trang%20mẫu/</link>
+		<link>http://localhost:8888/duong/</link>
 		<pubDate>Sat, 16 Nov 2019 04:17:37 +0000</pubDate>
 		<dc:creator><![CDATA[duong1]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/duong/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Đây là trang mẫu. Nó khác với bài viết bởi vì nó thường cố định và hiển thị trong menu của bạn. Nhiều người bắt đầu với trang Giới thiệu nơi bạn chia sẻ thông tin cho những ai ghé thăm. Nó có thể bắt đầu như thế này:</p>
-<!-- /wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:html -->
+[ux_slider]
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Chào bạn! Tôi là một người bán hàng, và đây là website của tôi. Tôi sống ở Hà Nội, có một gia đình nhỏ, và tôi thấy cách sử dụng WordPress rất thú vị.</p></blockquote>
-<!-- /wp:quote -->
+[ux_banner height="400px" bg="128" bg_overlay="rgba(0, 0, 0, 0.02)" bg_pos="58% 63%"]
 
-<!-- wp:paragraph -->
-<p>... hoặc cái gì đó như thế này:</p>
-<!-- /wp:paragraph -->
+[text_box width__sm="60" position_x="50" position_y="50"]
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Công ty chúng tôi được thành lập năm 2010, và cung cấp dịch vụ chất lượng cho rất nhiều sự kiện tại khắp Việt Nam. Với văn phòng đặt tại Hà Nội, TP. Hồ Chí Minh cùng hơn 40 nhân sự, chúng tôi là nơi nhiều đối tác tin tưởng giao cho tổ chức các sự kiện lớn.</p></blockquote>
-<!-- /wp:quote -->
 
-<!-- wp:paragraph -->
-<p>Là một người dùng WordPress mới, bạn nên ghé thăm <a href="http://localhost:8888/duong/wp-admin/">bảng tin</a> để xóa trang này và tạo trang mới cho nội dung của chính bạn. Chúc bạn vui vẻ!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="400px" bg="118" bg_overlay="rgba(0, 0, 0, 0.02)"]
+
+[text_box width__sm="60" position_x="50" position_y="50"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/ux_slider]
+[title style="center" text="VỀ BUK TRADE ĐÁNG YÊU"]
+
+<div>
+<div>
+<div class="_4tdt _ua1">
+<div class="_ua2">
+<div class="_4tdv">
+<div class="_5wd4 _1nc7">
+<div class="._1dlq _h8t">
+<div class="_5wd9 direction_ltr clearfix">
+<div class="_1e-x _n4o">
+<div class="_3_bl">
+<div class="_5w1r _3_om _5wdf">
+<div class="_4gx_">
+<div class="_1aa6">
+<h3 style="text-align: center;"><span class="_5yl5">Đừng để những cuốn sách cũ trở nên vô giá trị! </span></h3>
+<blockquote>
+<div class="" style="text-align: center;"><span class="_5yl5">BUK TRADE là nơi dành cho các DUE-er kéo dài "vòng đời" của sách cũ, giáo trình đã sử dụng thông qua việc kết nối giữa người muốn nhượng lại sách cũ và người có nhu cầu tìm mua lại chúng. Bên cạnh đó, BUK TRADE còn là nơi để các sinh viên tham gia trao đổi, chia sẻ kinh nghiệm học tập hoặc đơn giản chỉ là chém gió, "bóc phốt" thầy cô, bạn bè, trường lớp (Tụi mình không chịu trách nhiệm nếu bài bóc phốt bị nhân vật chính nhìn thấy đâu nha^^ - Hãy cẩn trọng với những lời bạn nói, vui thôi đừng vui quá). </span></div>
+</blockquote>
+<h4 style="text-align: center;"><span class="_5yl5">Chúc các bạn có những trải nghiệm tốt khi lướt BUK TRADE!</span></h4>
+</div>
+</div>
+</div>
+</div>
+<p><i class="img sp_20KqDkDBIl7 sx_dbc716"></i><i class="img sp_1xGvg2WAnAI sx_f2dd75"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+[title style="bold" text="dANH MỤC" tag_name="h2"]
+
+[row]
+
+[col span="4" span__sm="12"]
+
+[ux_banner height="200px" bg="136" bg_size="original" bg_pos="55% 11%" hover="zoom-fade" link="blog"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span style="color: midnightblue; Background: white"class="uppercase">Khoa Kế toán</span></strong></h2>
+[divider]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="200px" bg="137" hover="zoom-fade" link="http://localhost:8888/test/blog/"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span style="color: midnightblue;Background: white"class="uppercase">Khoa du lịch</span></strong></h2>
+[divider]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="200px" bg="149" bg_pos="71% 0%" hover="zoom-fade" link="about-us"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span style="color: midnightblue;Background: white"class="uppercase">Khoa Quản trị kinh doanh</span></strong></h2>
+[divider]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="200px" bg="148"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span style="color: midnightblue;Background: white"class="uppercase">Khoa Thống kê-Tin học</span></strong></h2>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="200px" bg="147"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span style="color: midnightblue;Background: white"class="uppercase">Khoa Kinh doanh quốc tế</span></strong></h2>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="200px" bg="146"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span style="color: midnightblue;Background: white"class="uppercase">Khoa Luật</span></strong></h2>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="200px" bg="145"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span style="color: midnightblue;Background: white"class="uppercase">Khoa Kinh tế</span></strong></h2>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="200px" bg="144"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span style="color: midnightblue;Background: white"class="uppercase">Khoa Lý luận chính trị</span></strong></h2>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="200px" bg="143"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span style="color: midnightblue;Background: white"class="uppercase">Khoa Marketing</span></strong></h2>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="200px" bg="142"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span style="color: midnightblue;Background: white"class="uppercase">Khoa Tài chính</span></strong></h2>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="200px" bg="141"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span style="color: midnightblue;Background: white"class="uppercase">KhoaKinh tế – Chính trị</span></strong></h2>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="200px" bg="140"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span style="color: midnightblue;Background: white"class="uppercase">Khoa Thươngmại điện tử</span></strong></h2>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="200px" bg="139"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span style="color: midnightblue;Background: white"class="uppercase">Khoa Ngân hàng</span></strong></h2>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="200px" bg="138"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span style="color: midnightblue;Background: white"class="uppercase">Sách khác</span></strong></h2>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="200px" bg="137"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span style="color: midnightblue;Background: white"class="uppercase">Tất cả danh mục</span></strong></h2>
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+[ux_products products="14" show="featured"]
+
+[ux_products orderby="sales"]
+
+[title style="center" text="Tin Tức Mới Nhất"]
+
+[ux_product_categories number="20"]
+
+[gap height="40px"]
+
+[row col_style="divided"]
+
+[col span="6" divider="0"]
+
+[featured_box img="167" img_width="46" pos="center" title="BIẾT TIN GÌ CHƯA: NGUYỄN MẠNH DẦN 42K22 VỪA ĐẠT GIẢI NHẤT GIẢI THƯỞNG SINH VIÊN NGHIÊN CỨU 2019." margin="0px 0px 0px 0px" icon_border="2" icon_color="rgb(182, 182, 182)" link="http://localhost:8888/duong/2019/11/24/deep-learning-va-ung-dung-deep-learning-trong-tong-hop-y-kien-khach-hang-dien-tu"]
+
+<p>Mỗi ngày chúng ta tạo ra khoảng 2,6 nghìn tỷ byte dữ liệu. Đó là tài nguyên cho việc học sâu. Thuật toán học sâu đòi hỏi một lượng dữ liệu lớn để học hỏi, sự gia tăng việc tạo dữ liệu này là một trong những lý do mà khả năng học sâu đã phát triển trong những năm gần đây.......</p>
+
+[/featured_box]
+
+[/col]
+[col span="6"]
+
+[featured_box img="156" img_width="46" pos="center" title="DEEP LEARNING Và ỨNG DỤNG DEEP LEARNING TRONG CUỘC SỐNG" margin="0px 0px 0px 0px" icon_border="2" icon_color="rgb(182, 182, 182)" link="http://localhost:8888/duong/2019/11/24/deep-learning-va-ung-dung-deep-learning-trong-tong-hop-y-kien-khach-hang-dien-tu/"]
+
+<p>Cách một chiếc xe tự hành “nhìn” được thực tế đường đi và di chuyển, dừng lại, tránh một quả bóng trên đường hoặc xe khác là thông qua các thuật toán học sâu. Các thuật toán càng nhận được nhiều dữ liệu thì càng có khả năng hành động giống như con người trong quá trình xử lý thông tin.....</p>
+
+[/featured_box]
+
+[/col]
+
+[/row]
+[gap height="40px"]
+
+[ux_slider timer="2000"]
+
+[ux_banner height="309px" bg="180" bg_pos="49% 0%" parallax="1"]
+
+
+[/ux_banner]
+[ux_banner height="302px" bg="179" bg_pos="49% 56%" parallax="1"]
+
+
+[/ux_banner]
+
+[/ux_slider]
+
+<!-- /wp:html -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-16 04:17:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-16 04:17:37]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[Trang mẫu]]></wp:post_name>
+		<wp:post_name><![CDATA[trang-mau]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -9282,7 +10341,23 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page-blank.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_footer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[normal]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9383,172 +10458,6 @@
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_um_core]]></wp:meta_key>
 		<wp:meta_value><![CDATA[login]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Register</title>
-		<link>http://localhost:8888/duong/register/</link>
-		<pubDate>Sat, 16 Nov 2019 04:21:30 +0000</pubDate>
-		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/register/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[ultimatemember form_id="5"]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>11</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 04:21:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 04:21:30]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[register]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_um_core]]></wp:meta_key>
-		<wp:meta_value><![CDATA[register]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Members</title>
-		<link>http://localhost:8888/duong/members/</link>
-		<pubDate>Sat, 16 Nov 2019 04:21:30 +0000</pubDate>
-		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/members/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[ultimatemember form_id="8"]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 04:21:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 04:21:30]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[members]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_um_core]]></wp:meta_key>
-		<wp:meta_value><![CDATA[members]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Logout</title>
-		<link>http://localhost:8888/duong/logout/</link>
-		<pubDate>Sat, 16 Nov 2019 04:21:30 +0000</pubDate>
-		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/logout/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 04:21:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 04:21:30]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[logout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_um_core]]></wp:meta_key>
-		<wp:meta_value><![CDATA[logout]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Account</title>
-		<link>http://localhost:8888/duong/account/</link>
-		<pubDate>Sat, 16 Nov 2019 04:21:30 +0000</pubDate>
-		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/account/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[ultimatemember_account]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>14</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 04:21:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 04:21:30]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[account]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_um_core]]></wp:meta_key>
-		<wp:meta_value><![CDATA[account]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>610715cf657b8325da6a</title>
-		<link>http://localhost:8888/duong/610715cf657b8325da6a/</link>
-		<pubDate>Sat, 16 Nov 2019 04:53:53 +0000</pubDate>
-		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/610715cf657b8325da6a.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 04:53:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 04:53:53]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[610715cf657b8325da6a]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/610715cf657b8325da6a.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/11/610715cf657b8325da6a.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1080;s:6:"height";i:400;s:4:"file";s:32:"2019/11/610715cf657b8325da6a.jpg";s:5:"sizes";a:7:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:32:"610715cf657b8325da6a-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:32:"610715cf657b8325da6a-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:18:"woocommerce_single";a:4:{s:4:"file";s:32:"610715cf657b8325da6a-600x222.jpg";s:5:"width";i:600;s:6:"height";i:222;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"610715cf657b8325da6a-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"610715cf657b8325da6a-300x111.jpg";s:5:"width";i:300;s:6:"height";i:111;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"610715cf657b8325da6a-768x284.jpg";s:5:"width";i:768;s:6:"height";i:284;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"610715cf657b8325da6a-1024x379.jpg";s:5:"width";i:1024;s:6:"height";i:379;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>01b5dcffd74b3115685a</title>
-		<link>http://localhost:8888/duong/01b5dcffd74b3115685a/</link>
-		<pubDate>Sat, 16 Nov 2019 04:54:07 +0000</pubDate>
-		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/01b5dcffd74b3115685a.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>20</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 04:54:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 04:54:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[01b5dcffd74b3115685a]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/01b5dcffd74b3115685a.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/11/01b5dcffd74b3115685a.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1080;s:6:"height";i:400;s:4:"file";s:32:"2019/11/01b5dcffd74b3115685a.jpg";s:5:"sizes";a:7:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:32:"01b5dcffd74b3115685a-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:32:"01b5dcffd74b3115685a-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:18:"woocommerce_single";a:4:{s:4:"file";s:32:"01b5dcffd74b3115685a-600x222.jpg";s:5:"width";i:600;s:6:"height";i:222;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"01b5dcffd74b3115685a-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"01b5dcffd74b3115685a-300x111.jpg";s:5:"width";i:300;s:6:"height";i:111;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"01b5dcffd74b3115685a-768x284.jpg";s:5:"width";i:768;s:6:"height";i:284;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"01b5dcffd74b3115685a-1024x379.jpg";s:5:"width";i:1024;s:6:"height";i:379;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9663,19 +10572,19 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://localhost:8888/duong/2019/11/16/26/</link>
-		<pubDate>Sat, 16 Nov 2019 04:56:07 +0000</pubDate>
+		<link>http://localhost:8888/duong/2019/11/22/57/</link>
+		<pubDate>Fri, 22 Nov 2019 14:14:43 +0000</pubDate>
 		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/2019/11/16/26/</guid>
+		<guid isPermaLink="false">http://localhost:8888/duong/2019/11/22/57/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>26</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 04:56:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 04:56:07]]></wp:post_date_gmt>
+		<wp:post_id>57</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-22 14:14:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-22 14:14:43]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[26]]></wp:post_name>
+		<wp:post_name><![CDATA[57]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>3</wp:menu_order>
@@ -9693,7 +10602,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		<wp:meta_value><![CDATA[54]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -9717,130 +10626,46 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>http://localhost:8888/duong/2019/11/16/27/</link>
-		<pubDate>Sat, 16 Nov 2019 04:56:07 +0000</pubDate>
+		<title>Trang chủ 2</title>
+		<link>http://localhost:8888/duong/blocks/trang-chu-2/</link>
+		<pubDate>Fri, 22 Nov 2019 14:47:26 +0000</pubDate>
 		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/2019/11/16/27/</guid>
+		<guid isPermaLink="false">http://localhost:8888/duong/?post_type=blocks&#038;p=59</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>27</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 04:56:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 04:56:07]]></wp:post_date_gmt>
+		<wp:post_id>59</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-22 14:47:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-22 14:47:26]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[27]]></wp:post_name>
+		<wp:post_name><![CDATA[trang-chu-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[blocks]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="duong"><![CDATA[duong]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[12]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title></title>
-		<link>http://localhost:8888/duong/2019/11/16/28/</link>
-		<pubDate>Sat, 16 Nov 2019 04:56:07 +0000</pubDate>
+		<link>http://localhost:8888/duong/2019/11/23/72/</link>
+		<pubDate>Sat, 23 Nov 2019 03:35:56 +0000</pubDate>
 		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/2019/11/16/28/</guid>
+		<guid isPermaLink="false">http://localhost:8888/duong/2019/11/23/72/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>28</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 04:56:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 04:56:07]]></wp:post_date_gmt>
+		<wp:post_id>72</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-23 03:35:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-23 03:35:56]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[28]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="duong"><![CDATA[duong]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>http://localhost:8888/duong/2019/11/16/29/</link>
-		<pubDate>Sat, 16 Nov 2019 04:56:07 +0000</pubDate>
-		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/2019/11/16/29/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>29</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 04:56:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 04:56:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[29]]></wp:post_name>
+		<wp:post_name><![CDATA[72]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>4</wp:menu_order>
@@ -9854,7 +10679,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
@@ -9882,180 +10707,349 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>http://localhost:8888/duong/2019/11/16/30/</link>
-		<pubDate>Sat, 16 Nov 2019 04:56:07 +0000</pubDate>
+		<title>khoa9_184x112</title>
+		<link>http://localhost:8888/duong/khoa9_184x112/</link>
+		<pubDate>Sun, 24 Nov 2019 13:05:06 +0000</pubDate>
 		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/2019/11/16/30/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>30</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 04:56:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 04:56:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[30]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="duong"><![CDATA[duong]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>74614080_552266268931899_4360626548408057856_n</title>
-		<link>http://localhost:8888/duong/74614080_552266268931899_4360626548408057856_n/</link>
-		<pubDate>Sat, 16 Nov 2019 09:38:59 +0000</pubDate>
-		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/74614080_552266268931899_4360626548408057856_n.png</guid>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/khoa9_184x112.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>31</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 09:38:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 09:38:59]]></wp:post_date_gmt>
+		<wp:post_id>144</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 13:05:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 13:05:06]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[74614080_552266268931899_4360626548408057856_n]]></wp:post_name>
+		<wp:post_name><![CDATA[khoa9_184x112]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/74614080_552266268931899_4360626548408057856_n.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/khoa9_184x112.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/11/74614080_552266268931899_4360626548408057856_n.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2019/11/khoa9_184x112.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:319;s:6:"height";i:290;s:4:"file";s:58:"2019/11/74614080_552266268931899_4360626548408057856_n.png";s:5:"sizes";a:4:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:58:"74614080_552266268931899_4360626548408057856_n-300x290.png";s:5:"width";i:300;s:6:"height";i:290;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:58:"74614080_552266268931899_4360626548408057856_n-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:58:"74614080_552266268931899_4360626548408057856_n-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:58:"74614080_552266268931899_4360626548408057856_n-300x273.png";s:5:"width";i:300;s:6:"height";i:273;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:184;s:6:"height";i:112;s:4:"file";s:25:"2019/11/khoa9_184x112.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"khoa9_184x112-150x112.jpg";s:5:"width";i:150;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:25:"khoa9_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:25:"khoa9_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>woocommerce-placeholder</title>
-		<link>http://localhost:8888/duong/woocommerce-placeholder/</link>
-		<pubDate>Sat, 16 Nov 2019 10:04:21 +0000</pubDate>
+		<title>khoa10_184x112</title>
+		<link>http://localhost:8888/duong/khoa10_184x112/</link>
+		<pubDate>Sun, 24 Nov 2019 13:05:06 +0000</pubDate>
 		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/woocommerce-placeholder.png</guid>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/khoa10_184x112.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>33</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 10:04:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 10:04:21]]></wp:post_date_gmt>
+		<wp:post_id>145</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 13:05:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 13:05:06]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[woocommerce-placeholder]]></wp:post_name>
+		<wp:post_name><![CDATA[khoa10_184x112]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/khoa10_184x112.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2019/11/khoa10_184x112.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:1200;s:4:"file";s:27:"woocommerce-placeholder.png";s:5:"sizes";a:7:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:35:"woocommerce-placeholder-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:35:"woocommerce-placeholder-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:18:"woocommerce_single";a:4:{s:4:"file";s:35:"woocommerce-placeholder-600x600.png";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:35:"woocommerce-placeholder-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:35:"woocommerce-placeholder-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:35:"woocommerce-placeholder-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:37:"woocommerce-placeholder-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:184;s:6:"height";i:112;s:4:"file";s:26:"2019/11/khoa10_184x112.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"khoa10_184x112-150x112.jpg";s:5:"width";i:150;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:26:"khoa10_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:26:"khoa10_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>http://localhost:8888/duong/2019/11/16/47/</link>
-		<pubDate>Sat, 16 Nov 2019 13:04:38 +0000</pubDate>
+		<title>khoa11_184x112</title>
+		<link>http://localhost:8888/duong/khoa11_184x112/</link>
+		<pubDate>Sun, 24 Nov 2019 13:05:07 +0000</pubDate>
 		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/2019/11/16/47/</guid>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/khoa11_184x112.jpg</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>47</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 13:04:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 13:04:38]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:post_id>146</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 13:05:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 13:05:07]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[47]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[khoa11_184x112]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="duong"><![CDATA[duong]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/khoa11_184x112.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/khoa11_184x112.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:184;s:6:"height";i:112;s:4:"file";s:26:"2019/11/khoa11_184x112.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"khoa11_184x112-150x112.jpg";s:5:"width";i:150;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:26:"khoa11_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:26:"khoa11_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>khoa12_184x112</title>
+		<link>http://localhost:8888/duong/khoa12_184x112/</link>
+		<pubDate>Sun, 24 Nov 2019 13:05:08 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/khoa12_184x112.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>147</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 13:05:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 13:05:08]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[khoa12_184x112]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/khoa12_184x112.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/khoa12_184x112.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:184;s:6:"height";i:112;s:4:"file";s:26:"2019/11/khoa12_184x112.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"khoa12_184x112-150x112.jpg";s:5:"width";i:150;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:26:"khoa12_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:26:"khoa12_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>khoa13_184x112</title>
+		<link>http://localhost:8888/duong/khoa13_184x112/</link>
+		<pubDate>Sun, 24 Nov 2019 13:05:09 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/khoa13_184x112.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>148</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 13:05:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 13:05:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[khoa13_184x112]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/khoa13_184x112.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/khoa13_184x112.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:184;s:6:"height";i:112;s:4:"file";s:26:"2019/11/khoa13_184x112.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"khoa13_184x112-150x112.jpg";s:5:"width";i:150;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:26:"khoa13_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:26:"khoa13_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>khoa14_184x112</title>
+		<link>http://localhost:8888/duong/khoa14_184x112/</link>
+		<pubDate>Sun, 24 Nov 2019 13:05:10 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/khoa14_184x112.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>149</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 13:05:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 13:05:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[khoa14_184x112]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/khoa14_184x112.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/khoa14_184x112.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:184;s:6:"height";i:112;s:4:"file";s:26:"2019/11/khoa14_184x112.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"khoa14_184x112-150x112.jpg";s:5:"width";i:150;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:26:"khoa14_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:26:"khoa14_184x112-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>machine-learning-api</title>
+		<link>http://localhost:8888/duong/2019/11/24/deep-learning-va-ung-dung-deep-learning-trong-tong-hop-y-kien-khach-hang-dien-tu/machine-learning-api/#main</link>
+		<pubDate>Sun, 24 Nov 2019 13:44:55 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/machine-learning-api.jpeg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>156</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 13:44:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 13:44:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[machine-learning-api]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>155</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/machine-learning-api.jpeg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/machine-learning-api.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:495;s:6:"height";i:297;s:4:"file";s:33:"2019/11/machine-learning-api.jpeg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:33:"machine-learning-api-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:33:"machine-learning-api-300x180.jpeg";s:5:"width";i:300;s:6:"height";i:180;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:33:"machine-learning-api-300x297.jpeg";s:5:"width";i:300;s:6:"height";i:297;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:33:"machine-learning-api-100x100.jpeg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:33:"machine-learning-api-300x297.jpeg";s:5:"width";i:300;s:6:"height";i:297;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:33:"machine-learning-api-100x100.jpeg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>76727006_10157679090864730_7699566096055009280_o</title>
+		<link>http://localhost:8888/duong/2019/11/24/tin-nong-nguyen-manh-dan-vua-dat-giai-nhat-ung-dung-deep-learning-trong-tong-hop-y-kien-khach-hang-dien-tu/76727006_10157679090864730_7699566096055009280_o/#main</link>
+		<pubDate>Sun, 24 Nov 2019 14:08:03 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/76727006_10157679090864730_7699566096055009280_o.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>167</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 14:08:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 14:08:03]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[76727006_10157679090864730_7699566096055009280_o]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>164</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/76727006_10157679090864730_7699566096055009280_o.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/76727006_10157679090864730_7699566096055009280_o.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:720;s:6:"height";i:960;s:4:"file";s:60:"2019/11/76727006_10157679090864730_7699566096055009280_o.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:60:"76727006_10157679090864730_7699566096055009280_o-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:60:"76727006_10157679090864730_7699566096055009280_o-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:60:"76727006_10157679090864730_7699566096055009280_o-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:60:"76727006_10157679090864730_7699566096055009280_o-600x800.jpg";s:5:"width";i:600;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:60:"76727006_10157679090864730_7699566096055009280_o-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:60:"76727006_10157679090864730_7699566096055009280_o-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:60:"76727006_10157679090864730_7699566096055009280_o-600x800.jpg";s:5:"width";i:600;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:60:"76727006_10157679090864730_7699566096055009280_o-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>khoa8_184x112</title>
+		<link>http://localhost:8888/duong/khoa8_184x112-2/</link>
+		<pubDate>Sun, 24 Nov 2019 14:10:18 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/khoa8_184x112-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>169</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 14:10:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 14:10:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[khoa8_184x112-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/khoa8_184x112-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/khoa8_184x112-1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:184;s:6:"height";i:112;s:4:"file";s:27:"2019/11/khoa8_184x112-1.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:27:"khoa8_184x112-1-150x112.jpg";s:5:"width";i:150;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:27:"khoa8_184x112-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:27:"khoa8_184x112-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>banner_940x235_3</title>
+		<link>http://localhost:8888/duong/banner_940x235_3/</link>
+		<pubDate>Tue, 26 Nov 2019 00:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/banner_940x235_3.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>179</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-26 00:16:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-26 00:16:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[banner_940x235_3]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/banner_940x235_3.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/banner_940x235_3.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:940;s:6:"height";i:235;s:4:"file";s:28:"2019/11/banner_940x235_3.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"banner_940x235_3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:27:"banner_940x235_3-300x75.jpg";s:5:"width";i:300;s:6:"height";i:75;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:28:"banner_940x235_3-768x192.jpg";s:5:"width";i:768;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:28:"banner_940x235_3-300x235.jpg";s:5:"width";i:300;s:6:"height";i:235;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:28:"banner_940x235_3-600x150.jpg";s:5:"width";i:600;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:28:"banner_940x235_3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:28:"banner_940x235_3-300x235.jpg";s:5:"width";i:300;s:6:"height";i:235;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:28:"banner_940x235_3-600x150.jpg";s:5:"width";i:600;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:28:"banner_940x235_3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>banner_940x235_4</title>
+		<link>http://localhost:8888/duong/banner_940x235_4/</link>
+		<pubDate>Tue, 26 Nov 2019 00:16:57 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/wp-content/uploads/2019/11/banner_940x235_4.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>180</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-26 00:16:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-26 00:16:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[banner_940x235_4]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8888/duong/wp-content/uploads/2019/11/banner_940x235_4.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/banner_940x235_4.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:940;s:6:"height";i:235;s:4:"file";s:28:"2019/11/banner_940x235_4.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"banner_940x235_4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:27:"banner_940x235_4-300x75.jpg";s:5:"width";i:300;s:6:"height";i:75;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:28:"banner_940x235_4-768x192.jpg";s:5:"width";i:768;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:28:"banner_940x235_4-300x235.jpg";s:5:"width";i:300;s:6:"height";i:235;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:28:"banner_940x235_4-600x150.jpg";s:5:"width";i:600;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:28:"banner_940x235_4-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:28:"banner_940x235_4-300x235.jpg";s:5:"width";i:300;s:6:"height";i:235;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:28:"banner_940x235_4-600x150.jpg";s:5:"width";i:600;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:28:"banner_940x235_4-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>http://localhost:8888/duong/2019/11/16/chao-moi-nguoi/</link>
+		<link>http://localhost:8888/duong/2019/11/16/chao-moi-nguoi__trashed/</link>
 		<pubDate>Sat, 16 Nov 2019 04:17:37 +0000</pubDate>
 		<dc:creator><![CDATA[duong1]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/duong/?p=1</guid>
@@ -10069,17 +11063,33 @@
 		<wp:post_date_gmt><![CDATA[2019-11-16 04:17:37]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[chao-moi-nguoi]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[chao-moi-nguoi__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="khong-phan-loai"><![CDATA[Chưa được phân loại]]></category>
+										<category domain="category" nicename="khong-phan-loai"><![CDATA[Sách Khác]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_um_core]]></wp:meta_key>
 		<wp:meta_value><![CDATA[pages_settings]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1574488689]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[chao-moi-nguoi]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>1</wp:comment_id>
@@ -10092,12 +11102,678 @@
 			<wp:comment_content><![CDATA[Xin chào, đây là một bình luận
 Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.
 Avatar của người bình luận sử dụng <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
+					<item>
+		<title>Register</title>
+		<link>http://localhost:8888/duong/register/</link>
+		<pubDate>Sat, 16 Nov 2019 04:21:30 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/register/</guid>
+		<description></description>
+		<content:encoded><![CDATA[[ultimatemember form_id="5"]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>11</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-16 04:21:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-16 04:21:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[register]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_um_core]]></wp:meta_key>
+		<wp:meta_value><![CDATA[register]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Members</title>
+		<link>http://localhost:8888/duong/members/</link>
+		<pubDate>Sat, 16 Nov 2019 04:21:30 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/members/</guid>
+		<description></description>
+		<content:encoded><![CDATA[[ultimatemember form_id="8"]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-16 04:21:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-16 04:21:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[members]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_um_core]]></wp:meta_key>
+		<wp:meta_value><![CDATA[members]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Logout</title>
+		<link>http://localhost:8888/duong/logout/</link>
+		<pubDate>Sat, 16 Nov 2019 04:21:30 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/logout/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>13</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-16 04:21:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-16 04:21:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[logout]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_um_core]]></wp:meta_key>
+		<wp:meta_value><![CDATA[logout]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Account</title>
+		<link>http://localhost:8888/duong/account/</link>
+		<pubDate>Sat, 16 Nov 2019 04:21:30 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/account/</guid>
+		<description></description>
+		<content:encoded><![CDATA[[ultimatemember_account]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>14</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-16 04:21:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-16 04:21:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[account]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_um_core]]></wp:meta_key>
+		<wp:meta_value><![CDATA[account]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Password Reset</title>
+		<link>http://localhost:8888/duong/password-reset/</link>
+		<pubDate>Sat, 16 Nov 2019 04:21:30 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/password-reset/</guid>
+		<description></description>
+		<content:encoded><![CDATA[[ultimatemember_password]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>15</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-16 04:21:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-16 04:21:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[password-reset]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_um_core]]></wp:meta_key>
+		<wp:meta_value><![CDATA[password-reset]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Shop</title>
+		<link>http://localhost:8888/duong/shop/</link>
+		<pubDate>Sat, 16 Nov 2019 10:04:59 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/shop/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>34</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-16 10:04:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-16 10:04:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[shop]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Cart</title>
+		<link>http://localhost:8888/duong/cart/</link>
+		<pubDate>Sat, 16 Nov 2019 10:04:59 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/cart/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_cart]<!-- /wp:shortcode -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>35</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-16 10:04:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-16 10:04:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cart]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Checkout</title>
+		<link>http://localhost:8888/duong/checkout/</link>
+		<pubDate>Sat, 16 Nov 2019 10:04:59 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/checkout/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_checkout]<!-- /wp:shortcode -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>36</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-16 10:04:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-16 10:04:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[checkout]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>My account</title>
+		<link>http://localhost:8888/duong/my-account/</link>
+		<pubDate>Sat, 16 Nov 2019 10:04:59 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/my-account/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_my_account]<!-- /wp:shortcode -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>37</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-16 10:04:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-16 10:04:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[my-account]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Đăng Bài</title>
+		<link>http://localhost:8888/duong/dang-bai/</link>
+		<pubDate>Fri, 22 Nov 2019 14:07:37 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/?page_id=54</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>54</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-22 14:07:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-22 14:07:37]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dang-bai]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_footer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[dang-bai.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>http://localhost:8888/duong/2019/11/23/79__trashed/</link>
+		<pubDate>Sat, 23 Nov 2019 04:50:13 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/2019/11/23/79/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:html /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>79</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-23 04:50:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-23 04:50:13]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[79__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="khong-phan-loai"><![CDATA[Sách Khác]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[O:8:"WP_Error":2:{s:6:"errors";a:1:{s:12:"upload_error";a:1:{i:0;s:21:"No file was uploaded.";}}s:10:"error_data";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1574488689]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[79]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>http://localhost:8888/duong/2019/11/23/80__trashed/</link>
+		<pubDate>Sat, 23 Nov 2019 04:50:21 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/2019/11/23/80/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:html /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>80</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-23 04:50:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-23 04:50:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[80__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="khong-phan-loai"><![CDATA[Sách Khác]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[O:8:"WP_Error":2:{s:6:"errors";a:1:{s:12:"upload_error";a:1:{i:0;s:21:"No file was uploaded.";}}s:10:"error_data";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1574488689]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[80]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>http://localhost:8888/duong/2019/11/23/81__trashed/</link>
+		<pubDate>Sat, 23 Nov 2019 04:50:33 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/2019/11/23/81/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:html /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>81</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-23 04:50:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-23 04:50:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[81__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="ad"><![CDATA[ad]]></category>
+		<category domain="category" nicename="khong-phan-loai"><![CDATA[Sách Khác]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[O:8:"WP_Error":2:{s:6:"errors";a:1:{s:12:"upload_error";a:1:{i:0;s:21:"No file was uploaded.";}}s:10:"error_data";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1574488689]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[81]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>http://localhost:8888/duong/2019/11/23/82__trashed/</link>
+		<pubDate>Sat, 23 Nov 2019 04:56:31 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/2019/11/23/82/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:html /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>82</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-23 04:56:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-23 04:56:31]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[82__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="ad"><![CDATA[ad]]></category>
+		<category domain="category" nicename="khong-phan-loai"><![CDATA[Sách Khác]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[O:8:"WP_Error":2:{s:6:"errors";a:1:{s:12:"upload_error";a:1:{i:0;s:21:"No file was uploaded.";}}s:10:"error_data";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1574488689]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[82]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>http://localhost:8888/duong/2019/11/23/83__trashed/</link>
+		<pubDate>Sat, 23 Nov 2019 04:58:45 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/2019/11/23/83/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:html /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>83</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-23 04:58:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-23 04:58:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[83__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="ad"><![CDATA[ad]]></category>
+		<category domain="category" nicename="khong-phan-loai"><![CDATA[Sách Khác]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[O:8:"WP_Error":2:{s:6:"errors";a:1:{s:12:"upload_error";a:1:{i:0;s:21:"No file was uploaded.";}}s:10:"error_data";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1574488689]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[83]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>http://localhost:8888/duong/2019/11/23/84__trashed/</link>
+		<pubDate>Sat, 23 Nov 2019 04:59:38 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/2019/11/23/84/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:html /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>84</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-23 04:59:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-23 04:59:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[84__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="ad"><![CDATA[ad]]></category>
+		<category domain="category" nicename="khong-phan-loai"><![CDATA[Sách Khác]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[O:8:"WP_Error":2:{s:6:"errors";a:1:{s:12:"upload_error";a:1:{i:0;s:21:"No file was uploaded.";}}s:10:"error_data";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1574488689]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[84]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>http://localhost:8888/duong/2019/11/23/85__trashed/</link>
+		<pubDate>Sat, 23 Nov 2019 05:01:29 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/2019/11/23/85/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:html /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>85</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-23 05:01:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-23 05:01:29]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[85__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="ad"><![CDATA[ad]]></category>
+		<category domain="category" nicename="khong-phan-loai"><![CDATA[Sách Khác]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[O:8:"WP_Error":2:{s:6:"errors";a:1:{s:12:"upload_error";a:1:{i:0;s:21:"No file was uploaded.";}}s:10:"error_data";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1574488675]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[85]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>DEEP LEARNING Và ỨNG DỤNG DEEP LEARNING TRONG CUỘC SỐNG</title>
+		<link>http://localhost:8888/duong/2019/11/24/deep-learning-va-ung-dung-deep-learning-trong-tong-hop-y-kien-khach-hang-dien-tu/</link>
+		<pubDate>Sun, 24 Nov 2019 13:46:50 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/?p=155</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:html -->
+<h3><strong>Deep learning là gì?</strong></h3>
+Học sâu là một tập hợp các máy học nơi mạng nơ-ron nhân tạo, các thuật toán mô phỏng&nbsp; bộ não con người, học hỏi từ một lượng lớn dữ liệu.&nbsp;Tương tự như cách chúng ta học hỏi từ kinh nghiệm, thuật toán học sâu sẽ thực hiện một nhiệm vụ nhiều lần, mỗi lần tinh chỉnh một chút để cải thiện kết quả. Bất kỳ vấn đề nào đòi hỏi sự tư duy để tìm ra lời giải học sâu đều có thể học cách giải quyết.
+
+Mỗi ngày chúng ta tạo ra khoảng 2,6 nghìn tỷ byte dữ liệu. Đó là tài nguyên cho việc học sâu. Thuật toán học sâu đòi hỏi một lượng dữ liệu lớn để học hỏi, sự gia tăng việc tạo dữ liệu này là một trong những lý do mà khả năng học sâu đã phát triển trong những năm gần đây.
+<h3><strong>8 ví dụ trong thực tế của deep learning</strong></h3>
+<em><strong>1. Trợ lý ảo</strong></em>
+
+Cho dù đó là Alexa hay Siri hay Cortana, những trợ lý ảo của các nhà cung cấp dịch vụ trực tuyến đều sử dụng học sâu để giúp hiểu lời nói của người dùng và ngôn ngữ con người sử dụng khi họ tương tác với máy.
+
+<em><strong>2. Dịch thuật</strong></em>
+
+Theo cách tương tự, thuật toán học sâu có thể tự động dịch giữa các ngôn ngữ.&nbsp;Điều này có thể hỗ trợ mạnh mẽ cho khách du lịch, doanh nhân và những người làm việc trong chính phủ.
+
+<em><strong>3. Máy bay không người lái và xe ô tô tự hành</strong></em>
+
+Cách một chiếc xe tự hành “nhìn” được thực tế đường đi và di chuyển, dừng lại, tránh một quả bóng trên đường hoặc xe khác là thông qua các thuật toán học sâu.&nbsp;Các thuật toán càng nhận được nhiều dữ liệu thì càng có khả năng hành động giống như con người trong quá trình xử lý thông tin.
+
+<em><strong>4. Chatbots và dịch vụ bots</strong></em>
+
+<img class="wp-image-23193 size-full     lazyloaded aligncenter" src="https://techinsight.com.vn/wp-content/uploads/2018/10/42121314_1840073929362637_2085833691728183296_n.jpg" sizes="(max-width: 960px) 100vw, 960px" srcset="https://techinsight.com.vn/wp-content/uploads/2018/10/42121314_1840073929362637_2085833691728183296_n.jpg 960w, https://techinsight.com.vn/wp-content/uploads/2018/10/42121314_1840073929362637_2085833691728183296_n-300x169.jpg 300w, https://techinsight.com.vn/wp-content/uploads/2018/10/42121314_1840073929362637_2085833691728183296_n-768x432.jpg 768w, https://techinsight.com.vn/wp-content/uploads/2018/10/42121314_1840073929362637_2085833691728183296_n-696x392.jpg 696w, https://techinsight.com.vn/wp-content/uploads/2018/10/42121314_1840073929362637_2085833691728183296_n-747x420.jpg 747w" alt="" data-lazy-src="https://techinsight.com.vn/wp-content/uploads/2018/10/42121314_1840073929362637_2085833691728183296_n.jpg" data-lazy-srcset="https://techinsight.com.vn/wp-content/uploads/2018/10/42121314_1840073929362637_2085833691728183296_n.jpg 960w, https://techinsight.com.vn/wp-content/uploads/2018/10/42121314_1840073929362637_2085833691728183296_n-300x169.jpg 300w, https://techinsight.com.vn/wp-content/uploads/2018/10/42121314_1840073929362637_2085833691728183296_n-768x432.jpg 768w, https://techinsight.com.vn/wp-content/uploads/2018/10/42121314_1840073929362637_2085833691728183296_n-696x392.jpg 696w, https://techinsight.com.vn/wp-content/uploads/2018/10/42121314_1840073929362637_2085833691728183296_n-747x420.jpg 747w" data-lazy-sizes="(max-width: 960px) 100vw, 960px" width="960" height="540">
+
+Chatbots hỗ trợ dịch vụ chăm sóc khách hàng cho rất nhiều công ty để có thể đáp ứng một cách tối ưu những câu hỏi của khách hàng với số lượng ngày càng tăng nhờ vào việc học sâu.
+
+<em><strong>5. Tô màu hình ảnh</strong></em>
+
+Chuyển đổi hình ảnh đen trắng thành màu trước – đây là một nhiệm vụ được thực hiện tỉ mỉ bởi bàn tay con người.&nbsp;Ngày nay, các thuật toán học sâu có thể sử dụng ngữ cảnh và các đối tượng trong các hình ảnh để tô màu chúng với kết quả thật ấn tượng và chính xác.
+
+<em><strong>6. Nhận dạng khuôn mặt</strong></em>
+
+<img class="wp-image-23194 size-full     lazyloaded aligncenter" src="https://techinsight.com.vn/wp-content/uploads/2018/10/Cong_nghe_nhan_dien_khuon_mat_1.png" sizes="(max-width: 640px) 100vw, 640px" srcset="https://techinsight.com.vn/wp-content/uploads/2018/10/Cong_nghe_nhan_dien_khuon_mat_1.png 640w, https://techinsight.com.vn/wp-content/uploads/2018/10/Cong_nghe_nhan_dien_khuon_mat_1-300x183.png 300w" alt="" data-lazy-src="https://techinsight.com.vn/wp-content/uploads/2018/10/Cong_nghe_nhan_dien_khuon_mat_1.png" data-lazy-srcset="https://techinsight.com.vn/wp-content/uploads/2018/10/Cong_nghe_nhan_dien_khuon_mat_1.png 640w, https://techinsight.com.vn/wp-content/uploads/2018/10/Cong_nghe_nhan_dien_khuon_mat_1-300x183.png 300w" data-lazy-sizes="(max-width: 640px) 100vw, 640px" width="640" height="391">
+
+Học sâu được sử dụng để nhận diện khuôn mặt không chỉ vì mục đích bảo mật mà còn cho việc gắn thẻ mọi người trên các bài đăng trên Facebook.&nbsp;Những thách thức đối với thuật toán học sâu trong nhận diện khuôn mặt là nhận biết chính người đó ngay cả khi họ đã thay đổi kiểu tóc, cạo râu hoặc khi hình ảnh được chụp trong điều kiện thiếu ánh sáng.
+
+<em><strong>7. Y học và dược phẩm</strong></em>
+
+Chẩn đoán chính xác bệnh tật và khối u, đồng thời kê đơn các loại thuốc phù hợp nhất bộ gen của mỗi bệnh nhân. Deep learning trong lĩnh vực y tế đã nhận được sự đầu tư của nhiều công ty dược phẩm và y tế lớn.
+
+<em><strong>8. Mua sắm và giải trí được cá nhân hóa</strong></em>
+
+Bao giờ bạn tự hỏi làm thế nào Netflix có thể đưa ra các đề xuất cho những gì bạn nên xem tiếp theo?&nbsp;Hoặc việc Amazon đưa ra gợi ý cho những gì bạn nên mua tiếp theo và những đề xuất đó chính xác là những gì bạn cần?&nbsp;Đó chính là ứng dụng của học sâu hay deep learning.
+<blockquote>Bernard Marr&nbsp;từng tốt nghiệp tại ĐH Cambridge (Anh) và hiện đang là CEO của Advanced Performance Institute, một tổ chức giúp các doanh nghiệp quản lý, đánh giá và nâng cao năng lực nhân viên. Bernard còn là cây viết nổi tiếng cho các tạp chí như Financial Times, CFO Magazine và Wall Street Journal và là 1 trong 100 tác giả nổi tiếng nhất trên mạng xã hội LinkedIn.</blockquote>
+<em><strong>Theo Forbes</strong></em>
+<!-- /wp:html -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>155</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 13:46:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 13:46:50]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[deep-learning-va-ung-dung-deep-learning-trong-tong-hop-y-kien-khach-hang-dien-tu]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="khong-phan-loai"><![CDATA[Sách Khác]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[156]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>TIN NÓNG: NGUYỄN MẠNH DẦN VỪA ĐẠT GIẢI NHẤT &quot;ỨNG DỤNG DEEP LEARNING TRONG TỔNG HỢP Ý KIẾN KHÁCH HÀNG ĐIỆN TỬ&quot;</title>
+		<link>http://localhost:8888/duong/2019/11/24/tin-nong-nguyen-manh-dan-vua-dat-giai-nhat-ung-dung-deep-learning-trong-tong-hop-y-kien-khach-hang-dien-tu/</link>
+		<pubDate>Sun, 24 Nov 2019 14:06:24 +0000</pubDate>
+		<dc:creator><![CDATA[duong1]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/duong/?p=164</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:html -->
+<h3><span class="_5yl5">BIẾT TIN GÌ CHƯA: NGUYỄN MẠNH DẦN 42K22 VỪA ĐẠT GIẢI NHẤT GIẢI THƯỞNG SINH VIÊN NGHIÊN CỨU 2019.</span></h3>
+<img class="spotlight aligncenter" src="https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/75327051_10157679075989730_159587996738256896_o.jpg?_nc_cat=106&amp;_nc_ohc=oEB2xJZwMD4AQlGoMuE1zSXfvO4yCemG4sWWLF4RQ1pb3z80_TTuBmqBA&amp;_nc_ht=scontent-sin2-2.xx&amp;oh=581e9d848db00dbcf9fa0427bb9e8e3e&amp;oe=5E4CF928" alt="Trong hình ảnh có thể có: 3 người, bao gồm Nguyễn Mạnh Dần và Nguyễn Thành Thủy, mọi người đang đứng" aria-busy="false" width="1180" height="885">
+
+<span class="_5yl5"> Vừa qua, thầy Nguyễn Thành Thủy, sinh viên Nguyễn Mạnh Dần và những người bạn Squad vừa nhận giải Nhất cuộc thi Sinh viên nghiên cứu khoa học Eureka lần thứ 21 năm 2019. </span>
+<h3><span class="_5yl5">Sinh viên nghiên cứu khoa học Eureka</span> là gì?</h3>
+<strong><em>Giải thưởng Sinh viên nghiên cứu khoa học- Euréka</em></strong> là giải thưởng cao quý dành cho sinh viên đam mê nghiên cứu khoa học trên toàn quốc, góp phần đẩy mạnh phong trào nghiên cứu khoa học của sinh viên các trường do Thành Đoàn TP. Hồ Chí Minh phối hợp cùng với Đại học Quốc gia TP. Hồ Chí Minh tổ chức.
+
+Để đến với Giải thưởng Sinh viên nghiên cứu khoa học Euréka, các đề tài nghiên cứu khoa học của sinh viên phải trải qua những vòng tuyển chọn khắt khe ở cấp trường, được hội đồng khoa học nhà trường đánh giá cao trước khi đăng ký tham gia Vòng Bán kết Giải thưởng tại thành phố Hồ Chí Minh. Nhờ sự quan tâm và đầu tư đặc biệt đó mà giải thưởng ngày càng được nâng cao cả về quy mô lẫn chất lượng. Năm 2018, Giải thưởng đã thu hút <strong>106 </strong>trường ĐH – CĐ, Học viện đến từ 24 tỉnh, thành trong nước với <strong>903</strong> đề tài của hơn <strong>2000</strong> sinh viên, với hơn<strong> 350 </strong>Nhà khoa học/Chuyên gia đánh giá đề tài.
+
+<img class="irc_mi aligncenter" src="https://www.hutech.edu.vn/imgnews/homepage/stories/hinh212-sea/eureka-web-2018.png" alt="Image result for Sinh viên nghiên cứu khoa học Eureka là gì?" width="620" height="434">
+
+&nbsp;
+<blockquote><span class="_5yl5">Đề tài là "Nghiên cứu và ứng dụng Deep learning trong tổng hợp ý kiến khách hàng điện tử: trường hợp bài toán dịch vụ khách sạn". Về Deep learning, bài viết số trước đã mô tả về các khái niệm Deep learning cơ bản, để tìm đọc, các đồng chí vui lòng tìm đọc bài viết "Nghiên cứu và ứng dụng Deep learning trong tổng hợp ý kiến khách hàng điện tử: trường hợp bài toán dịch vụ khách sạn". Hiện các nhân vật chính chưa bày tỏ bất cứ ý kiến gì về giải thưởng này, chúng tôi sẽ cập nhật thêm ngay sau khi có thêm thông tin. </span></blockquote>
+<span class="_5yl5">Thông tấn xã BUK TRADE kính báo.</span>
+
+<img class="spotlight aligncenter" src="https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/77119438_10157679076039730_2937517034986012672_o.jpg?_nc_cat=103&amp;_nc_ohc=YIKXn5vRoGkAQm64OsIHjkeIJMR8o3ZkqqeADiyvuJGCnwZsm6-MuvDZw&amp;_nc_ht=scontent-sin2-2.xx&amp;oh=bc07d7df09f1eb1805d9510448d069ba&amp;oe=5E7A8454" alt="Trong hình ảnh có thể có: 5 người, bao gồm Nguyễn Thành Thủy và Nguyễn Mạnh Dần, mọi người đang cười, mọi người đang đứng" aria-busy="false" width="958" height="718">
+
+<img class="spotlight aligncenter" src="https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/p720x720/76727006_10157679090864730_7699566096055009280_o.jpg?_nc_cat=103&amp;_nc_ohc=AzN7s1inPKoAQlmr--p5yVEjvuGLshJuHdEeFdOIRw7-9bDdgUJHVv7Mw&amp;_nc_ht=scontent-sin2-2.xx&amp;oh=1c3000a3b55597dfd9fa3023578e41bc&amp;oe=5E4BF178" alt="Trong hình ảnh có thể có: 5 người, bao gồm Nguyễn Thành Thủy và Nguyễn Mạnh Dần, mọi người đang cười, mọi người đang đứng và giày" aria-busy="false">
+<!-- /wp:html -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>164</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 14:06:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 14:06:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[tin-nong-nguyen-manh-dan-vua-dat-giai-nhat-ung-dung-deep-learning-trong-tong-hop-y-kien-khach-hang-dien-tu]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="khong-phan-loai"><![CDATA[Sách Khác]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[167]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title>Default Registration</title>
 		<link>http://localhost:8888/duong/um_form/default-registration/</link>
@@ -10379,119 +12055,204 @@ Avatar của người bình luận sử dụng <a href="https://gravatar.com">Gr
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Password Reset</title>
-		<link>http://localhost:8888/duong/password-reset/</link>
-		<pubDate>Sat, 16 Nov 2019 04:21:30 +0000</pubDate>
+		<title>ABC</title>
+		<link>http://localhost:8888/duong/shop/abc__trashed/</link>
+		<pubDate>Fri, 22 Nov 2019 13:33:18 +0000</pubDate>
 		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/password-reset/</guid>
+		<guid isPermaLink="false">http://localhost:8888/duong/?post_type=product&#038;p=52</guid>
 		<description></description>
-		<content:encoded><![CDATA[[ultimatemember_password]]]></content:encoded>
+		<content:encoded><![CDATA[bông gà]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 04:21:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 04:21:30]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:post_id>52</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-22 13:33:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-22 13:33:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[password-reset]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[abc__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_um_core]]></wp:meta_key>
-		<wp:meta_value><![CDATA[password-reset]]></wp:meta_value>
+										<category domain="product_cat" nicename="khoa-du-lich"><![CDATA[Khoa Du Lịch]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wc_productdata_options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;a:9:{s:11:"_bubble_new";s:0:"";s:12:"_bubble_text";s:0:"";s:17:"_custom_tab_title";s:0:"";s:11:"_custom_tab";s:0:"";s:14:"_product_video";s:0:"";s:19:"_product_video_size";s:0:"";s:24:"_product_video_placement";s:0:"";s:12:"_top_content";s:0:"";s:15:"_bottom_content";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1000]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3.8.0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1000]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1574604653]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[abc]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Shop</title>
-		<link>http://localhost:8888/duong/shop/</link>
-		<pubDate>Sat, 16 Nov 2019 10:04:59 +0000</pubDate>
+		<title>TIN NÓNG: NGUYỄN MẠNH DẦN VỪA ĐẠT GIẢI NHẤT &quot;ỨNG DỤNG DEEP LEARNING TRONG TỔNG HỢP Ý KIẾN KHÁCH HÀNG ĐIỆN TỬ&quot;</title>
+		<link>http://localhost:8888/duong/2019/11/24/tin-nong-nguyen-manh-dan-vua-dat-giai-nhat-ung-dung-deep-learning-trong-tong-hop-y-kien-khach-hang-dien-tu__trashed/</link>
+		<pubDate>Sun, 24 Nov 2019 13:49:20 +0000</pubDate>
 		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/shop/</guid>
+		<guid isPermaLink="false">http://localhost:8888/duong/?p=158</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>34</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 10:04:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 10:04:59]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shop]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_id>158</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 13:49:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 13:49:20]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[tin-nong-nguyen-manh-dan-vua-dat-giai-nhat-ung-dung-deep-learning-trong-tong-hop-y-kien-khach-hang-dien-tu__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+										<category domain="category" nicename="khong-phan-loai"><![CDATA[Sách Khác]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[um_content_restriction]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1574604159]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tin-nong-nguyen-manh-dan-vua-dat-giai-nhat-ung-dung-deep-learning-trong-tong-hop-y-kien-khach-hang-dien-tu]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
-		<title>Cart</title>
-		<link>http://localhost:8888/duong/cart/</link>
-		<pubDate>Sat, 16 Nov 2019 10:04:59 +0000</pubDate>
+		<title>âccavavavacac</title>
+		<link>http://localhost:8888/duong/2019/11/24/accavavavacac__trashed/</link>
+		<pubDate>Sun, 24 Nov 2019 14:37:32 +0000</pubDate>
 		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/cart/</guid>
+		<guid isPermaLink="false">http://localhost:8888/duong/2019/11/24/accavavavacac/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_cart]<!-- /wp:shortcode -->]]></content:encoded>
+		<content:encoded><![CDATA[abvac]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>35</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 10:04:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 10:04:59]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cart]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_id>171</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-24 14:37:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-24 14:37:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[accavavavacac__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>Checkout</title>
-		<link>http://localhost:8888/duong/checkout/</link>
-		<pubDate>Sat, 16 Nov 2019 10:04:59 +0000</pubDate>
-		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/checkout/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_checkout]<!-- /wp:shortcode -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>36</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 10:04:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 10:04:59]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[checkout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>My account</title>
-		<link>http://localhost:8888/duong/my-account/</link>
-		<pubDate>Sat, 16 Nov 2019 10:04:59 +0000</pubDate>
-		<dc:creator><![CDATA[duong1]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/duong/my-account/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_my_account]<!-- /wp:shortcode -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>37</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-16 10:04:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-16 10:04:59]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[my-account]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+										<category domain="post_tag" nicename="accac"><![CDATA[âccac]]></category>
+		<category domain="category" nicename="khong-phan-loai"><![CDATA[Sách Khác]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[O:8:"WP_Error":2:{s:6:"errors";a:1:{s:12:"upload_error";a:1:{i:0;s:21:"No file was uploaded.";}}s:10:"error_data";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1574728249]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[accavavavacac]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 				</channel>
 </rss>
 	
